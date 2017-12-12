@@ -12,6 +12,8 @@ import org.omg.PortableServer.ID_ASSIGNMENT_POLICY_ID;
 public class Q05_用两个栈实现队列 {
 	
 	/**
+	 * type :  栈和队列
+	 * 
 	 * 用两个栈来实现一个队列，完成队列的Push和Pop操作。 队列中的元素为int类型。
 	 */
 	

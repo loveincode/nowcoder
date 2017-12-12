@@ -10,6 +10,8 @@ import common.TreeNode;
 public class Q04_重建二叉树 {
 	
 	/**
+	 * type : 树
+	 * 
 	 * Definition for binary tree
 	 * public class TreeNode {
 	 *     int val;

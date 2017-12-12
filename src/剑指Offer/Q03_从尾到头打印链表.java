@@ -13,6 +13,7 @@ import common.ListNode;
 public class Q03_从尾到头打印链表 {
 	
 	/**
+	 * type : 链表
 	*    public class ListNode {
 	*        int val;
 	*        ListNode next = null;
