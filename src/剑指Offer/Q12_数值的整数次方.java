@@ -25,6 +25,6 @@ public class Q12_数值的整数次方 {
 		for (int i = 1; i < exponent; i++) {
 			temp *= base;
 		}
-		return n < 0 ? 1 / temp : temp;
+		return n < 0 ? 1 / temp : temp;	
 	}
 }
