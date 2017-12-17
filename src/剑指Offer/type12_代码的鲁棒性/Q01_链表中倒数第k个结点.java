@@ -1,4 +1,4 @@
-package 剑指Offer;
+package 剑指Offer.type12_代码的鲁棒性;
 
 import common.ListNode;
 
@@ -7,7 +7,7 @@ import common.ListNode;
  * @author loveincode
  * @data Dec 12, 2017 7:39:14 PM
  */
-public class Q14_链表中倒数第k个结点 {
+public class Q01_链表中倒数第k个结点 {
 	/*
 	 * type : 代码的鲁棒性
 	 * 

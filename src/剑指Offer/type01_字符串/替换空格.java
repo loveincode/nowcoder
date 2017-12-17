@@ -1,11 +1,11 @@
-package 剑指Offer;
+package 剑指Offer.type01_字符串;
 
 /**
  *
  * @author loveincode
  * @data Nov 28, 2017 11:15:15 AM
  */
-public class Q02_替换空格 {
+public class 替换空格 {
 
 	/**
 	 * type : 字符串

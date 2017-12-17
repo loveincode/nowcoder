@@ -1,4 +1,4 @@
-package 剑指Offer;
+package 剑指Offer.type11_代码的完整性;
 
 import javax.swing.plaf.basic.BasicInternalFrameTitlePane.IconifyAction;
 
@@ -7,7 +7,7 @@ import javax.swing.plaf.basic.BasicInternalFrameTitlePane.IconifyAction;
  * @author loveincode
  * @data Dec 12, 2017 7:22:50 PM
  */
-public class Q13_调整数组顺序使奇数位于偶数前面 {
+public class Q02_调整数组顺序使奇数位于偶数前面 {
 	/**
 	 * type : 代码的完整性
 	 * 

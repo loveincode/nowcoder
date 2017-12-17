@@ -1,10 +1,10 @@
-package 剑指Offer;
+package 剑指Offer.type07_递归和循环;
 /**
 *
 * @author loveincode
 * @data Dec 12, 2017 5:06:01 PM
 */
-public class Q09_变态跳台阶 {
+public class Q03_变态跳台阶 {
 	/**
 	 * type : 递归和循环
 	 * 一只青蛙一次可以跳上1级台阶，也可以跳上2级……它也可以跳上n级。

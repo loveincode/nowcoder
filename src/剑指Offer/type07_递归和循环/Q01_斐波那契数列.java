@@ -1,10 +1,10 @@
-package 剑指Offer;
+package 剑指Offer.type07_递归和循环;
 /**
 *
 * @author loveincode
 * @data Dec 12, 2017 4:52:01 PM
 */
-public class Q07_斐波那契数列 {
+public class Q01_斐波那契数列 {
 	/**
 	 * type : 递归和循环 
 	 * 大家都知道斐波那契数列

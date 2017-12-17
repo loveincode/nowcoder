@@ -1,10 +1,10 @@
-package 剑指Offer;
+package 剑指Offer.type07_递归和循环;
 /**
 *
 * @author loveincode
 * @data Dec 12, 2017 5:15:44 PM
 */
-public class Q10_矩形覆盖 {
+public class Q04_矩形覆盖 {
 	
 	/*
 	 * type : 递归和循环
@@ -28,5 +28,8 @@ public class Q10_矩形覆盖 {
             return RectCover(target-1)+RectCover(target-2);
         }
     }
+
+	public static void main(String[] args) {
+	}
 	
 }

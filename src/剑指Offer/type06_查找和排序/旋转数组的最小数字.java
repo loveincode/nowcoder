@@ -1,11 +1,11 @@
-package 剑指Offer;
+package 剑指Offer.type06_查找和排序;
 
 /**
  *
  * @author loveincode
  * @data Dec 12, 2017 4:37:21 PM
  */
-public class Q06_旋转数组的最小数字 {
+public class 旋转数组的最小数字 {
 
 	/**
 	 * type : 查找和排序

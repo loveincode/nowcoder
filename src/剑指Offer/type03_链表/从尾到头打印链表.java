@@ -1,4 +1,4 @@
-package 剑指Offer;
+package 剑指Offer.type03_链表;
 
 import java.util.ArrayList;
 import java.util.Stack;
@@ -10,7 +10,7 @@ import common.ListNode;
 * @author loveincode
 * @data Dec 12, 2017 3:38:25 PM
 */
-public class Q03_从尾到头打印链表 {
+public class 从尾到头打印链表 {
 	
 	/**
 	 * type : 链表

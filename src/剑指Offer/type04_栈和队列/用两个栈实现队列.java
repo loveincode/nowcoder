@@ -1,4 +1,4 @@
-package 剑指Offer;
+package 剑指Offer.type04_栈和队列;
 
 import java.util.Stack;
 
@@ -9,7 +9,7 @@ import org.omg.PortableServer.ID_ASSIGNMENT_POLICY_ID;
 * @author loveincode
 * @data Dec 12, 2017 4:05:23 PM
 */
-public class Q05_用两个栈实现队列 {
+public class 用两个栈实现队列 {
 	
 	/**
 	 * type :  栈和队列

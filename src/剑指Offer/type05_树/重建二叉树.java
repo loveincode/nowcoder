@@ -1,4 +1,4 @@
-package 剑指Offer;
+package 剑指Offer.type05_树;
 
 import common.TreeNode;
 
@@ -7,7 +7,7 @@ import common.TreeNode;
 * @author loveincode
 * @data Dec 12, 2017 3:55:26 PM
 */
-public class Q04_重建二叉树 {
+public class 重建二叉树 {
 	
 	/**
 	 * type : 树

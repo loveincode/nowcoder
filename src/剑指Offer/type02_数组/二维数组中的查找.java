@@ -1,11 +1,11 @@
-package 剑指Offer;
+package 剑指Offer.type02_数组;
 
 /**
 *
 * @author loveincode
 * @data Nov 28, 2017 11:01:29 AM
 */
-public class Q01_二维数组中的查找 {
+public class 二维数组中的查找 {
 	
 	public static void main(String[] args) {
 		

@@ -1,11 +1,11 @@
-package 剑指Offer;
+package 剑指Offer.type08_位运算;
 
 /**
  *
  * @author loveincode
  * @data Dec 12, 2017 6:48:16 PM
  */
-public class Q11_二进制中1的个数 {
+public class Q01_二进制中1的个数 {
 	/**
 	 * 
 	 * type :  位运算

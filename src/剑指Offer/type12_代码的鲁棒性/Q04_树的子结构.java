@@ -1,4 +1,4 @@
-package 剑指Offer;
+package 剑指Offer.type12_代码的鲁棒性;
 
 import common.TreeNode;
 
@@ -7,7 +7,7 @@ import common.TreeNode;
  * @author loveincode
  * @data Dec 13, 2017 5:39:48 PM
  */
-public class Q17_树的子结构 {
+public class Q04_树的子结构 {
 
 	/**
 	 * type : 代码的鲁棒性

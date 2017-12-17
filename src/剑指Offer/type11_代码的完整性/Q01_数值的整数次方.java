@@ -1,11 +1,11 @@
-package 剑指Offer;
+package 剑指Offer.type11_代码的完整性;
 
 /**
  *
  * @author loveincode
  * @data Dec 12, 2017 7:12:17 PM
  */
-public class Q12_数值的整数次方 {
+public class Q01_数值的整数次方 {
 
 	/**
 	 * type:代码的完整性

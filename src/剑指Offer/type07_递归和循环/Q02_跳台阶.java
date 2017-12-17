@@ -1,4 +1,4 @@
-package 剑指Offer;
+package 剑指Offer.type07_递归和循环;
 
 import javax.imageio.ImageTypeSpecifier;
 
@@ -7,7 +7,7 @@ import javax.imageio.ImageTypeSpecifier;
 * @author loveincode
 * @data Dec 12, 2017 5:01:57 PM
 */
-public class Q08_跳台阶 {
+public class Q02_跳台阶 {
 	
 	/*
 	 * type : 递归和循环

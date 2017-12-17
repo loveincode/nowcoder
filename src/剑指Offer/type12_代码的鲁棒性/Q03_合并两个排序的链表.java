@@ -1,4 +1,4 @@
-package 剑指Offer;
+package 剑指Offer.type12_代码的鲁棒性;
 
 import javax.xml.ws.AsyncHandler;
 
@@ -9,7 +9,7 @@ import common.ListNode;
  * @author loveincode
  * @data Dec 13, 2017 5:39:29 PM
  */
-public class Q16_合并两个排序的链表 {
+public class Q03_合并两个排序的链表 {
 
 	/**
 	 * type : 代码的鲁棒性
