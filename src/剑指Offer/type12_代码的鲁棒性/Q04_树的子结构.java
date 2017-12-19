@@ -13,7 +13,7 @@ public class Q04_树的子结构 {
 	 * type : 代码的鲁棒性
 	 *
 	 * 输入两棵二叉树A，B，判断B是不是A的子结构。
-	 * 
+	 * 	
 	 * （ps：我们约定空树不是任意一个树的子结构）
 	 */
 
@@ -30,7 +30,6 @@ public class Q04_树的子结构 {
             if (!result) {
                 result = HasSubtree(root1.left,root2);
             }
-             
             //如果还找不到，那么就再去root的右儿子当作起点，去判断时候包含Tree2
             if (!result) {
                 result = HasSubtree(root1.right,root2);
@@ -53,7 +52,6 @@ public class Q04_树的子结构 {
         if (node1.val != node2.val) {  
                 return false;
         }
-         
         //如果根节点对应的上，那么就分别去子节点里面匹配
         return doesTree1HaveTree2(node1.left,node2.left) && doesTree1HaveTree2(node1.right,node2.right);
     }

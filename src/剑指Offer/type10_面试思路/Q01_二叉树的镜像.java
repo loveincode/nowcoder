@@ -29,9 +29,20 @@ public class Q01_二叉树的镜像 {
      * 	11 9 7  5
 	 */
 	public void Mirror(TreeNode root){
-		
-        
+		// 递归实现
+		if (root == null)
+			return;
+		if (root.left == null && root.right == null)
+			return;
+		TreeNode temp = root.left;
+		root.left = root.right;
+		root.right = temp;
+		if (root.left != null)
+			Mirror(root.left);
+		if (root.right != null)
+			Mirror(root.right);
     }
+	
 	
 
 }
