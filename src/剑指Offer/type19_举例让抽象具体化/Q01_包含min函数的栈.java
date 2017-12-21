@@ -2,7 +2,7 @@ package 剑指Offer.type19_举例让抽象具体化;
 
 import java.util.Stack;
 
-public class 包含min函数的栈 {
+public class Q01_包含min函数的栈 {
 	
 	/*
 	 * type : 举例让抽象具体化

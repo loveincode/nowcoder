@@ -2,7 +2,7 @@ package 剑指Offer.type19_举例让抽象具体化;
 
 import java.util.Stack;
 
-public class 栈的压入_弹出序列 {
+public class Q02_栈的压入_弹出序列 {
 	/*
 	 * 输入两个整数序列，第一个序列表示栈的压入顺序，请判断第二个序列是否为该栈的弹出顺序。
 	 * 
