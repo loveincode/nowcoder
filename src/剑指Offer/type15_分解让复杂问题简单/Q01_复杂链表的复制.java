@@ -23,8 +23,7 @@ public class Q01_复杂链表的复制 {
 	 * （注意，输出结果中请不要返回参数中的节点引用，否则判题程序会直接返回空）
 	 */
 	
-	public RandomListNode Clone(RandomListNode pHead)
-    {
+	public RandomListNode Clone(RandomListNode pHead){
 		if(pHead==null)
             return null;
         RandomListNode pCur = pHead;
