@@ -26,6 +26,7 @@ public class 删除链表中重复的结点 {
                 last.next = pHead;
             //当前值不等于下一个结点值 正常走
             } else {
+            	//将头结点保存住
                 last = pHead;
                 pHead = pHead.next;
             }
@@ -36,7 +37,7 @@ public class 删除链表中重复的结点 {
 	public static void main(String[] args) {
 		ListNode head1 = new ListNode(1);
 		ListNode head2 = new ListNode(2);
-		ListNode head3 = new ListNode(3);
+		ListNode head3 = new ListNode(2);
 		ListNode head4 = new ListNode(3);
 		ListNode head5 = new ListNode(4);
 		ListNode head6 = new ListNode(4);
